@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Dev:Career newsletter
+description: Uma lista de coisas legais sobre carreira em desenvolvimento de software
+google_analytics: UA-114198736-1
+github:
+  assinar: http://bit.ly/newsletter-dev-career
